@@ -29,11 +29,12 @@ The model architecture used for gesture recognition is a Convolutional Neural Ne
 
 To use the Gesture Recognition system:
 1. Ensure all required libraries are installed (`tensorflow`, `opencv-python`, `matplotlib`, `flask`).
-2. Run the `app.py` script to start the Flask web application.
-3. Navigate to the provided URL in a web browser.
-4. Upload an image containing a hand gesture.
-5. Click the "Predict Image" button to obtain the prediction result.
-6. The system will display the predicted hand gesture along with the certainty (probability) of the prediction.
+2. Run the `hand_sign.ipynb` in jupyter notebook to generate model.pkl file.
+3. Run the `app.py` script to start the Flask web application.
+4. Navigate to the provided URL in a web browser.
+5. Upload an image containing a hand gesture.
+6. Click the "Predict Image" button to obtain the prediction result.
+7. The system will display the predicted hand gesture along with the certainty (probability) of the prediction.
 
 ## Contributors:
 

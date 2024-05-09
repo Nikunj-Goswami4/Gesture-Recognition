@@ -4,7 +4,7 @@ This project aims to recognize hand gestures from images using machine learning 
 
 ## Files:
 
-1. **hand_sign.py**: This Python script contains the code for data preprocessing, model training, evaluation, and prediction. It utilizes TensorFlow and OpenCV libraries for image processing, along with Matplotlib for visualization.
+1. **hand_sign.ipynb**: This Python script contains the code for data preprocessing, model training, evaluation, and prediction. It utilizes TensorFlow and OpenCV libraries for image processing, along with Matplotlib for visualization.
 
 2. **app.py**: This Flask web application allows users to upload images and get predictions for the hand gestures detected in the images. It utilizes the trained model to make predictions.
 

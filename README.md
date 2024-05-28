@@ -48,6 +48,7 @@ For any questions, suggestions, or collaborations, please contact Nikunj Goswami
 
 ## Demonstration Video
 
-Click the image below to download and watch the demonstration video to see the Gesture Recognition Project in action:
-
-[![Gesture Recognition Project Demo](demo_vid/demo_vid_thumbnail.jpg)](demo_vid/Gesture_Recognition_Demo_Vid.mp4)
+<video width="560" height="315" autoplay loop muted>
+  <source src="demo_vid/Gesture_Recognition_Demo_Vid.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

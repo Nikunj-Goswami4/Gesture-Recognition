@@ -48,7 +48,5 @@ For any questions, suggestions, or collaborations, please contact Nikunj Goswami
 
 ## Demonstration Video
 
-<video width="560" height="315" autoplay loop muted>
-  <source src="demo_vid/Gesture_Recognition_Demo_Vid.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/Nikunj-Goswami4/Gesture-Recognition/assets/92319257/145f0d1f-0706-4c16-82d4-50a63d865774
+

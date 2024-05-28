@@ -44,3 +44,10 @@ To use the Gesture Recognition system:
 
 
 For any questions, suggestions, or collaborations, please contact Nikunj Goswami or Bansi Patel.
+
+
+## Demonstration Video
+
+Click the image below to download and watch the demonstration video to see the Gesture Recognition Project in action:
+
+[![Gesture Recognition Project Demo](demo_vid/demo_vid_thumbnail.jpg)](demo_vid/Gesture_Recognition_Demo_Vid.mp4)
